@@ -1,8 +1,9 @@
 {
   "name": "gusto-analysis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gusto - Fast Sentiment Analysis",
   "main": "src/index.js",
+  "include": ["src/index.js"],
   "scripts": {
     "test": "node tests/test.js",
     "test:performance": "node tests/benchmark.js"
