@@ -1,4 +1,4 @@
-![](./logo.png)
+<img width=150 src="./logo.png"/>
 
 # Gusto. Extremely fast sentiment analysis based on AFINN-165 with zero dependencies
 
