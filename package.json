@@ -1,9 +1,9 @@
 {
   "name": "gusto-analysis",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gusto - Fast Sentiment Analysis",
   "main": "src/index.js",
-  "include": ["src/index.js"],
+  "files": ["src/index.js"],
   "scripts": {
     "test": "node tests/test.js",
     "test:performance": "node tests/benchmark.js"
@@ -11,6 +11,10 @@
   "keywords": ["sentiment", "analysis"],
   "author": "x8d",
   "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x08d/gusto.git"
+  },
   "devDependencies": {
     "Sentimental": "^1.0.1",
     "benchmark": "^2.1.4",
