@@ -1,5 +1,5 @@
 {
-  "name": "gusto",
+  "name": "gusto-analysis",
   "version": "1.0.0",
   "description": "Gusto - Fast Sentiment Analysis",
   "main": "src/index.js",
